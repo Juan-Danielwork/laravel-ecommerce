@@ -3,7 +3,7 @@
 
 
 
-## About Laravel Ecommerce v-1
+## About Laravel Ecommerce
 
 this a laravel ecommerce. most simple using pattern repository for laravel and implementation paypal payment. the feature are:
 
@@ -19,6 +19,3 @@ this a laravel ecommerce. most simple using pattern repository for laravel and i
 --Manage payment methods available to customers.
 --Manage Shipping methods available to customers.
 --Manage admin users so other staff members use the admin area.
-
-thank for <a href="https://colorlib.com/wp/template/fashi/">Fashi the ecommerce template</a>
-thanks for <a href="http://themekit.lavalite.org/">Themekit for backend template</a>
