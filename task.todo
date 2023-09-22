@@ -1,0 +1,47 @@
+link tutorial:
+    ✔ https://www.larashout.com/laravel-ecommerce-application-development-introduction @done (4/11/2020, 10:40:26 PM)
+    ✔ https://www.larashout.com/laravel-e-commerce-application-development-initial-project-setup @done (4/11/2020, 10:40:26 PM)
+    ✔ https://www.larashout.com/admin-model-migration @done (4/11/2020, 10:40:27 PM)
+    ✔ https://www.larashout.com/backend-admin-authentication @done (4/11/2020, 10:40:27 PM)
+    ✔ https://www.larashout.com/backend-admin-authentication @done (4/11/2020, 11:45:19 PM)
+    ✔ https://www.larashout.com/base-controller-and-repository @done (4/12/2020, 8:10:38 PM)
+    ✔ https://www.larashout.com/settings-section-part-1 @done (4/22/2020, 4:37:43 PM)
+    ✘ https://www.larashout.com/settings-section-part-2 @cancelled (4/22/2020, 4:37:44 PM) @bug
+    ✔ https://www.larashout.com/categories-section-part-1 @done (4/22/2020, 5:10:24 PM)
+    ✔ https://www.larashout.com/laravel-e-commerce-application-development-categories-section-part-2 @done (4/23/2020, 11:33:12 PM)
+    ✔ https://www.larashout.com/attributes-section-part-1 @done (4/24/2020, 9:59:36 AM)
+    ✔ https://www.larashout.com/attributes-section-part-2 @done (4/25/2020, 1:20:11 PM)
+    ✔ https://www.larashout.com/attributes-section-part-3 @done (5/2/2020, 12:34:09 PM)
+    ✔ https://www.larashout.com/brands-section @done (5/2/2020, 7:59:37 PM)
+    ✔ https://www.larashout.com/products-section-part-1 @done (5/3/2020, 9:41:57 PM)
+    ✔ https://www.larashout.com/products-section-part-2 @done (5/4/2020, 11:04:07 PM)
+    ✔ https://www.larashout.com/products-section-part-3 @done (5/7/2020, 11:46:09 PM)
+    ✔ https://www.larashout.com/products-section-part-4 @done (5/10/2020, 3:41:08 PM)
+    ✔ https://www.larashout.com/frontend-login-registration @done (5/11/2020, 12:41:09 PM)
+    ✔ https://www.larashout.com/categories-navigation @done (5/11/2020, 4:29:45 PM)
+    ✔ https://www.larashout.com/laravel-e-commerce-application-development-catalog-listing @done (5/11/2020, 8:35:34 PM)
+    ✘ https://www.larashout.com/laravel-e-commerce-application-development-product-details-page @cancelled (5/13/2020, 3:05:54 PM)
+    ✔ https://www.larashout.com/laravel-e-commerce-application-development-shopping-cart @done (5/13/2020, 5:20:17 PM)
+    ✔ https://www.larashout.com/laravel-e-commerce-application-development-checkout @done (5/18/2020, 5:38:38 AM)
+    ✘ https://www.larashout.com/payment-processing @cancelled (5/19/2020, 5:59:52 PM)
+    ✔ https://www.larashout.com/order-management @done (5/20/2020, 1:16:29 PM)
+
+
+
+bug:
+    ☐ Setting Facede tidak dapat dijalankan
+    ☐ dalam teks deskripsi menggunakan WYSIWYG tag html terinput d laravel itu harus di hilangkan bisa menjadi senjata untuk d inject
+    ☐ fitur tombol logout pada ftonrend masih binung penempatannya
+    ☐ kalau atribute nya lebih dari satu dan ketika kita kombinasikan itu masih terdapat bug nilai kembali nol
+
+
+    https://scotch.io/tutorials/how-to-use-laravel-config-files#toc-when-to-use-config-file
+    http://themekit.lavalite.org/
+
+next features:
+    ✔ verifikasi email sehingga jika belum verifikasi email user tidak akan bisa masuk dlu @done (5/19/2020, 4:23:04 PM)
+
+package yang digunakan : 
+    ☐ https://github.com/TypiCMS/NestableCollection
+    ☐ https://github.com/darryldecode/laravelshoppingcart
+    ☐ https://github.com/paypal/PayPal-PHP-SDK
