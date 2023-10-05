@@ -1,6 +1,6 @@
 <p align="center"><img src="screanshoot/produk.png" width="400"></p>
 <p align="center"><img src="screanshoot/admin-produk.png" width="400"></p>
-<p align="center"><img src="screanshoot/Screenshot+29_123" width="400"></p>
+<p align="center"><img src="screanshoot/Screenshot+29_123.png" width="400"></p>
 
 
 
