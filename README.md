@@ -1,5 +1,6 @@
 <p align="center"><img src="screanshoot/produk.png" width="400"></p>
 <p align="center"><img src="screanshoot/admin-produk.png" width="400"></p>
+<p align="center"><img src="screanshoot/dashboard.png" width="400"></p>
 
 
 
